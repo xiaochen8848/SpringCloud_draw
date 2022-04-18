@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T00:21:00.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.5" etag="ja8yPQ6kpQqyPrzjTQmR" type="github"><diagram id="TX6NbSfS0L8wL38JxZTN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T03:09:48.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rtaab6s1N5s8tBQYdUMy" version="17.4.5" type="github">
+  <diagram id="TX6NbSfS0L8wL38JxZTN" name="第 1 页">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GeA3Cu1_3ednoulBD5-1-1" target="GeA3Cu1_3ednoulBD5-1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-1" value="&amp;lt;img src=&quot;img20.com&quot;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-2" value="index.html" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GeA3Cu1_3ednoulBD5-1-4" target="GeA3Cu1_3ednoulBD5-1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-4" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-7" value="img20.com" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-8" value="img20.com" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-9" value="img20.com" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GeA3Cu1_3ednoulBD5-1-11" target="GeA3Cu1_3ednoulBD5-1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-11" value="服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GeA3Cu1_3ednoulBD5-1-14" value="源服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
